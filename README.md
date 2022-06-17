@@ -1,4 +1,4 @@
-# MERN_BARBER_SHOP-APP
+# MERN_BarberShop-app
 
 
 Team project
